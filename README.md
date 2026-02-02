@@ -1,6 +1,6 @@
 # Customer_Support_Ticket_Analytics_Dashboard
 
-![Dashboard Screenshot](Link_To_Your_Main_Screenshot_Here.png)
+![Dashboard Screenshot](Dashboard Screenshot.jpg)
 *(Note: Replace this text with your actual screenshot link after uploading)*
 
 ## 📄 Project Overview
